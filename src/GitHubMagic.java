@@ -8,6 +8,7 @@ public class GitHubMagic {
 	}
 	private static void otroMetodo() {
 	System.out.println("GITHUBBBBB");
+	System.out.println("I <3 GITHUBBBBB");
 }
 
 }
